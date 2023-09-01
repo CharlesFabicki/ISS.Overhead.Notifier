@@ -1,0 +1,34 @@
+# .gitignore
+
+# Exclude sensitive information
+config.py
+secrets.py
+
+# Exclude Python cache files
+__pycache__/
+
+# Exclude virtual environment directory
+venv/
+
+# Exclude IDE-specific files and directories
+.idea/
+.vscode/
+
+# Exclude any compiled Python files
+*.pyc
+*.pyo
+*.pyd
+
+# Exclude log files
+*.log
+
+# Exclude any generated or temporary files
+*.pyc
+*.pyo
+*.db
+*.sqlite3
+*.csv
+*.json
+
+# Exclude any files generated during testing
+test_results/
