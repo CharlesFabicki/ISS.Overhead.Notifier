@@ -8,6 +8,10 @@ Before running the script, ensure you have the following:
 
 - Python 3.x installed
 - Required packages: `requests`, `datetime`, `smtplib`, and `time`
+```shell
+pip install requests
+pip install datetime
+pip install secure-smtplib
 
 ## Setup
 
