@@ -35,12 +35,12 @@ pip install secure-smtplib
 2. Navigate to the directory where the script `iss_tracker.py` is located.
 3. Run the script by executing the following command:
 
-   ```shell
+   ```
    python iss_tracker.py
-   
+   ```
 
 ## License
 
-This project is licensed under the [MIT License] 
+This project is licensed under the MIT License
 
 Feel free to paste this into your README file and make any additional changes you find necessary.
